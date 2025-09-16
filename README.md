@@ -33,7 +33,7 @@ This project leverages the **CNN/DailyMail dataset**, a benchmark in text summar
   - Paired summaries are used to evaluate abstractive summarization models like FLAN-T5  
   - Preprocessed content supports semantic search and extractive summarization  
 
-🔗 [CNN/DailyMail dataset on Hugging Face](https://huggingface.co/datasets/cnn_dailymail)  
+🔗 [CNN/DailyMail dataset on Hugging Face]([https://huggingface.co/datasets/cnn_dailymail](https://huggingface.co/datasets/abisee/cnn_dailymail))  
 
 ---
 

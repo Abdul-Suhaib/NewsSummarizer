@@ -37,6 +37,12 @@ This project leverages the **CNN/DailyMail dataset**, a benchmark in text summar
 
 ---
 
+# Architecture Diagram
+
+![image alt](https://github.com/Abdul-Suhaib/NewsSummarizer/blob/ec9128947d604046e24b2512e7129bc074295504/ArchitectureDiagram.jpg)
+
+---
+
 ## 🛠️ Tech Stack  
 
 - **Models:** FLAN-T5
